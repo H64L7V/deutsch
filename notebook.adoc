@@ -68,7 +68,12 @@ was? شيء
 
 
 
-=== Akkusativ
+=== verbs
+auf/räumen تنظيف
+vor/bereiten التجهيز
+ab/holen إحضار
+
+==== Akkusativ
 - haben
 - brauchen
 - kaufen
@@ -112,8 +117,26 @@ Können Sie das bitte ...?        (erklären/wiederholen/buchstabieren/aufschrei
                      *langsam* sprechen?
 
 
+.روتيني
+Ich arbeite __ Stunden *pro* Tag
+Ich putze meine Zähne 
+Ich gehe *ins Bett*.
 
 
+.كم الساعة؟
+- (um) Wie *spät* ist es? 
+- Wie *viel Uhr* ist es?
+  Es ist ...
+          eins
+          halb drei *2:30*
+          Viertel vor/nach ...  
+          *kurz* vor/nach ...
+          ___ Uhr ___ *morgens*
+
+
+
+*Wann* fängt ... an?     *Am* Montag  متى
+*Wie lange* ...?         2 Stunden
 
 
 
@@ -138,6 +161,19 @@ __      _____  _ __ __| |___
   \_/\_/ \___/|_|  \__,_|___/
 ////
 == Words
+
+in der Woche *werktags* خلال الأسبوع
+
+
+.wie oft?
+nie         0%
+selten      نادراً
+manchmal    أحياناً
+oft         غالباٌ
+meistens    غالباً
+immer       100%
+
+2 Mal/einmal      *pro* Tag/Monat
 
 
 
