@@ -1,0 +1,51 @@
+
+- Alphabet
+
+- Familie
+
+- Numbers (to million)
+  - +
+  - 1. 2. ...
+
+- Electronic devices
+
+- School
+
+- Home
+
+- Body
+
+- Days
+  - Week
+  - Months
+  - seasons
+
+- Foods
+  - Fruits
+  - Vegetables
+  - Meat
+  - Milk
+  - Drinks
+  - Bread
+  - Sweetness
+  - kg, g, Package, L
+
+- Weather °
+
+- Time
+  - clock
+
+// -------------------
+
+- learn:
+  - diese
+  - da, dort, hier
+  - stuck vs 
+  - Monatasmiete
+
+
+- dialogs:
+  - money
+  - on phone
+  - Resturant
+  - Termin

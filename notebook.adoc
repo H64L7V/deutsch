@@ -81,10 +81,15 @@ ab/holen إحضار
 
 
 
+> _verb_ immer in *2*
+> _subject_ *1 or 3*
 
 
 
-
+mein    meine
+dein    deine
+sein    seine
+ihr     ihr
 
 
 
@@ -138,13 +143,27 @@ Ich gehe *ins Bett*.
 *Wann* fängt ... an?     *Am* Montag  متى
 *Wie lange* ...?         2 Stunden
 
+.مع الأسف ما بمشي الحال
+Das geht leider nicht
 
 
+.متى تفتح؟
+Wann haben Sie *geschlossen* / *geöffnet* ?
+
+.أريد موعد
+- Haben einen Termin am ...?
+Ich möchte / hätte gern einen Termin
+  *Geht es* ...?
+    Nein, ... passt es nicht.
 
 
+.الشقة بالطابق ال...
+In welchem Stock ist die Wohnung?
+  Die Wohnung ist im ...
 
+Wie groß ist die Wohnung?
 
-
+Die Wohnung ist *frei*.
 
 
 
@@ -162,8 +181,11 @@ __      _____  _ __ __| |___
 ////
 == Words
 
-in der Woche *werktags* خلال الأسبوع
+in der Woche     *werktags* خلال الأسبوع
+*die Öffnungszeiten أوقات العمل
 
+
+die Lieblings**mannschaft** الفريق المفضل
 
 .wie oft?
 nie         0%
@@ -177,11 +199,48 @@ immer       100%
 
 
 
+=== البيت
+das Dachgeschoss
+das Obergeschoss / der Stock
+das Erdgeschoss
+//-----------------
+der Keller
+
+die Monatsmiete إيجار الشهر
+
+der Quadratmeter *m²*
+
+warm -> die Heitzung
+
+der Aufzug مصعد
+
+
+das Haus / ..er
+das Bad / ..er
+
+das Schlafsofa
+
+
+Januar
+Februar
+März
+April
+Mai
+Juni
+Juli
+August
+September
+Oktober
+November
+Dezember
+
+
 === الأكل
 der Vegetarier نباتي
 
 .اجهزة
 der Kühlschrank براد
+der Herd فرن
 
 .لحمة
 das Lammfleisch خروف, غنم
@@ -195,6 +254,15 @@ sauer حامض
 scharf حد
 
 
+
+.أعمال
+der Übersetzer
+
+
+
+=== صفات
+laut
+ruhig
 
 
 
